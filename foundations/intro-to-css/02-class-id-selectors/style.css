@@ -1,8 +1,12 @@
-.regular-class,
-.cooler-class {
+.regular-class {
     background-color: rgb(240, 157, 157);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+/* mda aici era redundant cum am facut la primul commit */
+
+
+
 
 .cooler-class,
 #another-id {
@@ -18,3 +22,7 @@
     background-color: #a3e2ad;
     font-weight: bold;
 }
+
+/* vad ca e cam la fel ca ei dar ei au preferat sa ii dea extra clasa elementului pe cand eu am dat extra selector atributului */
+
+/* probabil metoda lor e mai frumoasa. Sau probabil ca nu. Nu vom afla. */
