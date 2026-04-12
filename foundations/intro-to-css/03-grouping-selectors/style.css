@@ -1,14 +1,14 @@
-.class1 {
+.dark {
     background-color: black;
     color: white;
 }
 
-.class2 {
+.stylish {
     background-color: yellow;
 }
 
-.class1,
-.class2 {
+.dark,
+.stylish {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
